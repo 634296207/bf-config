@@ -1,0 +1,6 @@
+beeper 蜂鸣器
+uart 通用异步收发传输器
+Gyro 陀螺仪
+Acc 加速度器
+Baro 气压计
+Mag 磁力计
