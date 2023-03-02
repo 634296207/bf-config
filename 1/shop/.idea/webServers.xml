@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19c4b1c3-7154-4e22-abb9-998095a6eb1b" name="shop" url="http://www.shop.com">
+        <fileTransfer port="0" mountedRoot="D:\php20190701\php_code\0819-24\shop\backend" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
